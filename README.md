@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Cayetano Raúl Benítez
 
-<!--
-**caye2404/caye2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Fundador de CayeLab
+Bienvenido a mi laboratorio digital.  
+En **CayeLab** desarrollo proyectos open source pensados para creadores, emprendedores y personas que buscan nuevas formas de crecer en la economía digital.
 
-Here are some ideas to get you started:
+### 🌐 Conectá conmigo
+- Instagram: [@cayelab.ar](https://instagram.com/cayelab.ar)
+- TikTok: @cayelab.ar
+- YouTube: @cayelab.ar
+- SoundCloud: @cayelab.ar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Qué vas a encontrar acá
+- **[Landing pages](ca://s?q=Explorar_landing_pages)** minimalistas con integración de pagos.  
+- **[Proyectos open source](ca://s?q=Explorar_proyectos_open_source)** para la economía de creadores.  
+- **[Transparencia digital](ca://s?q=Explorar_transparencia_digital)**: repositorios donde muestro procesos y avances.  
+
+### 🎯 Objetivo
+Construir un portfolio sólido que muestre que soy más que un alias en redes:  
+un creador digital que lanza proyectos reales, visibles y escalables.
+
+---
+✨ Gracias por visitar mi perfil. Todo lo que ves acá es parte de **CayeLab**.
